@@ -143,7 +143,7 @@
     font-size: 30px;
   }
   
-  /* tablet */
+  
   @media (min-width: 576px) and (max-width: 992px) {
     body {
       grid-template-areas: 
@@ -206,7 +206,7 @@
   
   }
   
-  /* desktop */
+  
   @media (min-width: 992px) {
     body {
       grid-template-areas: 
